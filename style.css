@@ -1,0 +1,234 @@
+/* FONT-FAMILY */
+
+/* body{ */
+    /* font-family:  cursive ;
+ }
+ h1,
+ h2{
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ .credits {
+   font-family:'Courier New', Courier,
+    monospace ;
+}   */
+/* FONT-SIZE */
+/* PIXELS */
+/* p{
+   font-size: 160px;
+} */
+
+/* PERCENTAGE */
+/* p{
+   font-size: 200%;
+} */
+/* default-values */
+/* p{
+   font-size: xx-large;
+} */
+
+/* FONT-FACE */
+/* @font-face {
+   font-family: "test";
+   src: url("./fonts/Rajdhani-Bold.ttf");
+}
+h1{
+   font-family: test;
+} */
+/* FONT-WEIGHT */
+/* p{
+   font-weight: 500;
+} */
+
+/* FONT-STYLE */
+
+/* h1{
+   font-style: italic;
+} */
+/* using id selector and comparing 3  styles */
+/* #normal{
+   font-style: normal;
+}
+#italic{
+   font-style:italic ;
+}
+#oblique{
+   font-family: oblique;
+} */
+
+ /* TEXT TRANSFORM */
+/* hello guys <= lowercase*/
+/* HELLO GUYS <=uppercase*/
+/* Hello Guys How Are You Doing? <=capitalize*/
+   /* h1{
+    text-transform: uppercase;
+}    */
+  /* h1{
+    text-transform: capitalize;
+}  */
+/* TEXT DECORATION */
+ /* #underline{
+    text-decoration:underline ;
+}
+
+#overline{
+    text-decoration: overline;
+}
+
+
+#line-through{
+    text-decoration: line-through;
+}
+#blink{
+    text-decoration: blink;
+}  */
+/* LINE HEIGHT/LEADING */
+ /* p{
+    line-height: 18px;
+}  */
+
+/* LETTER AND WORD SPACING */
+/* word-spacing  */
+ /* h1{
+    word-spacing:  5px;
+}  */
+/* letter spacing */
+ /* h1{
+    letter-spacing: -9px;
+}  */
+
+/* TEXT ALIGN */
+ /* h1{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}  */
+
+/* VERTICAL ALIGNMENT */
+ /* img{
+    vertical-align: text-top;
+}  */
+
+/* TEXT INDENT */
+ /* h1{
+     text-indent: 50px;
+     text-align: justify;
+}  */
+
+ /* TEXT SHADOW  */
+ /* p{
+    background-color: #eeeeee;
+    color: #666666;
+    text-shadow: 1px 1px 1px red;
+} 
+ */
+
+/* FIRST LETTER OR FIRST LINE */
+ /* p::first-letter{
+    color: red;
+}  */
+
+ /* p::first-line{
+    color: blue;
+}  */
+
+/* STYLING LINKS */
+ /* a:links{
+    color: green;
+}
+
+a:visited{
+    color: red;
+}  */
+
+/* RESPONDING TO USER */
+/* hover */
+ /* input.btn:hover{
+    background-color: wheat;
+}
+
+input.btn:active{
+    background-color: red;
+}  */
+
+/* input.btn:focus{
+    background-color: blue;
+}
+
+input.textBox:focus{
+    background-color: black;
+    color: white;
+} */
+
+
+/* ATTRIBUTE SELECTORS */
+
+/* existance */
+/* h1[test]{
+    color: red;
+} */
+
+/* equality
+h1[test="hi"]{
+    color: red;
+} */
+
+/* space
+h1[test~='hi']{
+    color: pink;
+} */
+
+/* prefix */
+/* h1[test^="h"]{
+    color: red;
+} */
+
+/* substring
+h1[test*="ll"]{
+    color: red;
+} */
+
+/* suffix */
+/* h1[test$="l"]{
+    color: red;
+} */
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
